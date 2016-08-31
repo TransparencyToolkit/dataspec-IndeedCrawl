@@ -4,11 +4,15 @@
     "location",
     "company_location",
       "search_terms",
+      "dataset_name",
+      "overall_tag",
       "doc_source",
       "tools_mentioned"
   ],
     "Merge Categorical": [
 	"search_terms",
+	"dataset_name",
+	"overall_tag",
 	"tools_mentioned"
     ],
   "Searchable": [
@@ -44,6 +48,8 @@
     "current_title",
     "time_scraped",
       "search_terms",
+      "dataset_name",
+      "overall_tag",
       "doc_source",
       "tools_mentioned"
 	],
@@ -63,6 +69,8 @@
 	"current_title",
 	"time_scraped",
 	"search_terms",
+	"dataset_name",
+	"overall_tag",
 	"doc_source",
 	"tools_mentioned"
   ],
@@ -83,6 +91,8 @@
 	"current_title",
 	"time_scraped",
 	"search_terms",
+	"dataset_name",
+	"overall_tag",
 	"links",
 	"doc_source",
 	"tools_mentioned"

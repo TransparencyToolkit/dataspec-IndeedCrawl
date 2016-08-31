@@ -10,14 +10,24 @@
   },
     {
 	"Field Name": "search_terms",
-	"Human Readable Name": "Search Terms",
+	"Human Readable Name": "Selectors",
 	"Type": "String",
 	"Display Type": "Category",
 	"Mapping": "not_analyzed",
 	"Form Params": "search_terms",
 	"Location": "28",
 	"Icon": "document-topic"
-    }, 
+    },
+    {
+	"Field Name": "overall_tag",
+	"Human Readable Name": "Tag",
+	"Type": "String",
+	"Display Type": "Category",
+	"Mapping": "not_analyzed",
+	"Form Params": "overall_tag",
+	"Location": "29",
+	"Icon": "document-topic"
+    },
     {
 	"Field Name": "doc_source",
 	"Human Readable Name": "Data Source",
@@ -169,12 +179,12 @@
   },
     {
       "Field Name": "dataset_name",
-      "Human Readable Name": "Search Terms",
+      "Human Readable Name": "Collection",
       "Type": "String",
       "Display Type": "Category",
       "Mapping": "not_analyzed",
       "Form Params": "dataset_name",
-      "Location": "28",
+      "Location": "27",
       "Icon": "document-topic"
   } 
 ]
