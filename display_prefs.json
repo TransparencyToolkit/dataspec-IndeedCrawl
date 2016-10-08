@@ -6,7 +6,7 @@
       "search_terms",
       "dataset_name",
       "overall_tag",
-      "doc_source",
+      "data_source",
       "tools_mentioned"
   ],
     "Merge Categorical": [
@@ -29,7 +29,7 @@
       "current_title",
     "certifications",
       "additional_info",
-      "doc_source",
+      "data_source",
       "tools_mentioned"
 	],
   "In Search Results": [
@@ -50,7 +50,7 @@
       "search_terms",
       "dataset_name",
       "overall_tag",
-      "doc_source",
+      "data_source",
       "tools_mentioned"
 	],
     "In Search Results by Default": [
@@ -71,7 +71,7 @@
 	"search_terms",
 	"dataset_name",
 	"overall_tag",
-	"doc_source",
+	"data_source",
 	"tools_mentioned"
   ],
     "On Doc Page": [
@@ -94,7 +94,7 @@
 	"dataset_name",
 	"overall_tag",
 	"links",
-	"doc_source",
+	"data_source",
 	"tools_mentioned"
   ],
   "Item Field": [

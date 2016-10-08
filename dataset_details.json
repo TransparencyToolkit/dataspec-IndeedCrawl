@@ -1,7 +1,7 @@
 {
   "Path Type": "Directory",
-  "Path": "/home/shidash/Data/KG/xkeyscore_IndeedCrawl",
-  "Index Name": "indeed_data",
+  "Path": "/path/to/data",
+  "Index Name": "indeed_harvester",
   "Dataset Name": "Indeed",
   "Ignore Dir Import Ext": "_terms.json",
   "Sort Field": "",
